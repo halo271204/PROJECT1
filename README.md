@@ -1,2 +1,3 @@
 # PROJECT1
-FIRST REPOSITORY
+FIRST REPOSITORY.
+author-Ritesh reddy
